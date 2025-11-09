@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@astrojs/ts-plugin": "^1.10.5"
+  }
+}
