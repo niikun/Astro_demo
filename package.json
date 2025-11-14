@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@astrojs/ts-plugin": "^1.10.5"
+    "@astrojs/ts-plugin": "^1.10.5",
+    "astro": "^5.15.7",
+    "scss": "^0.2.4"
   }
 }

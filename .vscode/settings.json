@@ -1,0 +1,9 @@
+{
+  "emmet.includeLanguages": {
+    "astro": "html"
+  },
+  "emmet.showExpandedAbbreviation": "always",
+  "files.associations": {
+    "*.astro": "astro"
+  }
+}
